@@ -7,6 +7,7 @@
         "potter/aware-interface": "dev-main",
         "potter/container-aware-interface": "dev-main",
         "potter/logger-aware-interface": "dev-main",
+        "potter/output-buffer-aware-interface": "dev-main",
         "potter/session-aware-interface": "dev-main",
         "potter/socket-aware-interface": "dev-main"
     },
