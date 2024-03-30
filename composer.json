@@ -6,7 +6,8 @@
         "php": "^8.3",
         "potter/aware-interface": "dev-main",
         "potter/container-aware-interface": "dev-main",
-        "potter/logger-aware-interface": "dev-main"
+        "potter/logger-aware-interface": "dev-main",
+        "potter/session-aware-interface": "dev-main"
     },
     "license": "MIT",
     "authors": [
