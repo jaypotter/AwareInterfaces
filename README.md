@@ -1,6 +1,8 @@
 # AwareInterfaces
 PHP Collection of Aware Interfaces
 
+`composer require potter/aware-interfaces`
+
 Requires:
 
  * [Potter\Aware\AwareInterface](https://github.com/jaypotter/AwareInterface)
