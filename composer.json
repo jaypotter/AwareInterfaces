@@ -4,13 +4,10 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/aware-interface": "dev-main",
-        "potter/container-aware-interface": "dev-main",
-        "potter/logger-aware-interface": "dev-main",
-        "potter/output-buffer-aware-interface": "dev-main",
-        "potter/resource-aware-interface": "dev-main",
-        "potter/session-aware-interface": "dev-main",
-        "potter/socket-aware-interface": "dev-main"
+        "potter/aware-interface": "v0.0.1-alpha@alpha",
+        "potter/container-aware-interface": "v0.0.1-alpha@alpha",
+        "potter/logger-aware-interface": "v0.0.1-alpha@alpha",
+        "potter/resource-aware-interface": "v0.0.1-alpha@alpha"
     },
     "suggest": {
         "potter/aware": "dev-main",
@@ -24,5 +21,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
