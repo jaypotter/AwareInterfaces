@@ -10,3 +10,8 @@ Requires:
  * [Potter\Resource\Aware\ResourceAwareInterface](https://github.com/jaypotter/ResourceAwareInterface)
  * [Potter\Session\Aware\SessionAwareInterface](https://github.com/jaypotter/SessionAwareInterface)
  * [Potter\Socket\Aware\SocketAwareInterface](https://github.com/jaypotter/SocketAwareInterface)
+
+Suggests:
+ * [potter/aware](https://github.com/jaypotter/Aware)
+ * [potter/contracts](https://github.com/jaypotter/Contracts)
+ * [potter/framework](https://github.com/jaypotter/Framework)
