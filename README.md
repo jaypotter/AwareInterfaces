@@ -5,13 +5,10 @@ PHP Collection of Aware Interfaces
 
 Requires:
 
- * [Potter\Aware\AwareInterface](https://github.com/jaypotter/AwareInterface)
- * [Potter\Container\Aware\ContainerAwareInterface](https://github.com/jaypotter/ContainerAwareInterface)
- * [Potter\Logger\Aware\LoggerAwareInterface](https://github.com/jaypotter/LoggerAwareInterface)
- * [Potter\Buffer\Output\Aware\OutputBufferAwareInterface](https://github.com/jaypotter/OutputBufferAwareInterface)
- * [Potter\Resource\Aware\ResourceAwareInterface](https://github.com/jaypotter/ResourceAwareInterface)
- * [Potter\Session\Aware\SessionAwareInterface](https://github.com/jaypotter/SessionAwareInterface)
- * [Potter\Socket\Aware\SocketAwareInterface](https://github.com/jaypotter/SocketAwareInterface)
+ * [potter/aware-interface](https://github.com/jaypotter/AwareInterface)
+ * [potter/container-aware-interface](https://github.com/jaypotter/ContainerAwareInterface)
+ * [potter/logger-aware-interface](https://github.com/jaypotter/LoggerAwareInterface)
+ * [potter/resource-aware-interface](https://github.com/jaypotter/ResourceAwareInterface)
 
 Suggests:
  * [potter/aware](https://github.com/jaypotter/Aware)
