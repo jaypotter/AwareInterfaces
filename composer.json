@@ -1,6 +1,6 @@
 {
     "name": "potter/aware-interfaces",
-    "description": "PHP Aware Interface Collection",
+    "description": "PHP Collection of Aware Interfaces",
     "type": "metapackage",
     "require": {
         "php": "^8.3",
@@ -8,6 +8,7 @@
         "potter/container-aware-interface": "dev-main",
         "potter/logger-aware-interface": "dev-main",
         "potter/output-buffer-aware-interface": "dev-main",
+        "potter/resource-aware-interface": "dev-main",
         "potter/session-aware-interface": "dev-main",
         "potter/socket-aware-interface": "dev-main"
     },
